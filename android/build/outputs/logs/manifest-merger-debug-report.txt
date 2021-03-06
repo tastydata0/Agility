@@ -1,0 +1,75 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\Android\Agility\android\AndroidManifest.xml:2:1-24:12
+INJECTED from E:\Android\Agility\android\AndroidManifest.xml:2:1-24:12
+INJECTED from E:\Android\Agility\android\AndroidManifest.xml:2:1-24:12
+INJECTED from E:\Android\Agility\android\AndroidManifest.xml:2:1-24:12
+INJECTED from E:\Android\Agility\android\AndroidManifest.xml:2:1-24:12
+INJECTED from E:\Android\Agility\android\AndroidManifest.xml:2:1-24:12
+INJECTED from E:\Android\Agility\android\AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from E:\Android\Agility\android\AndroidManifest.xml:3:5-31
+		INJECTED from E:\Android\Agility\android\AndroidManifest.xml
+		INJECTED from E:\Android\Agility\android\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\Android\Agility\android\AndroidManifest.xml
+		ADDED from E:\Android\Agility\android\AndroidManifest.xml:2:1-24:12
+		INJECTED from E:\Android\Agility\android\AndroidManifest.xml
+	android:versionCode
+		INJECTED from E:\Android\Agility\android\AndroidManifest.xml
+		ADDED from E:\Android\Agility\android\AndroidManifest.xml:2:1-24:12
+		INJECTED from E:\Android\Agility\android\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\Android\Agility\android\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.VIBRATE
+ADDED from E:\Android\Agility\android\AndroidManifest.xml:4:5-66
+	android:name
+		ADDED from E:\Android\Agility\android\AndroidManifest.xml:4:22-63
+application
+ADDED from E:\Android\Agility\android\AndroidManifest.xml:5:5-22:19
+	android:label
+		ADDED from E:\Android\Agility\android\AndroidManifest.xml:10:9-41
+	android:appCategory
+		ADDED from E:\Android\Agility\android\AndroidManifest.xml:9:9-35
+	android:icon
+		ADDED from E:\Android\Agility\android\AndroidManifest.xml:7:9-45
+	android:allowBackup
+		ADDED from E:\Android\Agility\android\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from E:\Android\Agility\android\AndroidManifest.xml:11:9-40
+	android:isGame
+		ADDED from E:\Android\Agility\android\AndroidManifest.xml:8:9-30
+activity#com.agility.game.AndroidLauncher
+ADDED from E:\Android\Agility\android\AndroidManifest.xml:12:9-21:20
+	android:screenOrientation
+		ADDED from E:\Android\Agility\android\AndroidManifest.xml:15:13-50
+	android:label
+		ADDED from E:\Android\Agility\android\AndroidManifest.xml:14:13-45
+	android:configChanges
+		ADDED from E:\Android\Agility\android\AndroidManifest.xml:16:13-107
+	android:name
+		ADDED from E:\Android\Agility\android\AndroidManifest.xml:13:13-60
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\Android\Agility\android\AndroidManifest.xml:17:13-20:29
+action#android.intent.action.MAIN
+ADDED from E:\Android\Agility\android\AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from E:\Android\Agility\android\AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\Android\Agility\android\AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from E:\Android\Agility\android\AndroidManifest.xml:19:27-74
+uses-sdk
+INJECTED from E:\Android\Agility\android\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\Android\Agility\android\AndroidManifest.xml
+INJECTED from E:\Android\Agility\android\AndroidManifest.xml
+INJECTED from E:\Android\Agility\android\AndroidManifest.xml
+INJECTED from E:\Android\Agility\android\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\Android\Agility\android\AndroidManifest.xml
+		ADDED from E:\Android\Agility\android\AndroidManifest.xml
+		INJECTED from E:\Android\Agility\android\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\Android\Agility\android\AndroidManifest.xml
+		ADDED from E:\Android\Agility\android\AndroidManifest.xml
+		INJECTED from E:\Android\Agility\android\AndroidManifest.xml
